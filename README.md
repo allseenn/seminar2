@@ -10,9 +10,9 @@ All procedure takes 5 main actions
 With web browser on github.com we need to make Personal Access Token in Developer section of Settings in main Menu.
 
 ## 2 Linux bash
-We could use linux shell or Git Bash for windows to create public repo *seminar3*
+We could use linux shell or Git Bash for windows to create public repo *seminar3*, after password prompt insert PAT token from first action:
 ```
-curl -u allseen https://api.github.com/allseenn/seminar3 -d '{"name":"seminar3","private":false}'
+curl -u allseen https://api.github.com/user/repos -d '{"name":"seminar3","private":false}'
 ```
 ## 3 Windows
 ```
