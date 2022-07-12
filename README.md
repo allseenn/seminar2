@@ -35,3 +35,5 @@ git push -u origin win
 
 
 ## 5 GitHub Web
+On GitHub with web browser made main branch from win.
+And will try to merge others to it, if possible ))
