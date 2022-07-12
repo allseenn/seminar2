@@ -15,7 +15,7 @@ We could use linux shell or Git Bash for windows to create public repo *seminar3
 curl -u allseen https://api.github.com/user/repos -d '{"name":"seminar3","private":false}'
 ```
 ## 3 Windows
-For creation remote repo from Windows PC is needed to install **curl** utility!
+To create remote repo from Windows PC is needed to install **curl** utility!
 ```
 git init
 git add README.md
