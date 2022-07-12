@@ -12,7 +12,7 @@ With web browser on github.com we need to make Personal Access Token in Develope
 ## 2 Linux bash
 We could use linux shell or Git Bash for windows to create public repo *seminar3*
 ```
-curl -u allseen https://api.github.com/user/seminar3 -d '{"name":"seminar3","private":false}'
+curl -u allseen https://api.github.com/allseenn/seminar3 -d '{"name":"seminar3","private":false}'
 ```
 ## 3 Windows
 ```
