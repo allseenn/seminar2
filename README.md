@@ -24,9 +24,14 @@ git remote add origin https://github.com/allseenn/seminar3.git
 git push -u origin win
 ```
 ## 4 Linux git
-
-
-
-
-
+```
+git clone https://github.com/allseenn/seminar3.git
+cd seminar3
+git branch linux
+git checkout linux
+vim README.md
+git add README.md
+git commit -m "linux part"
+git push
+```
 ## 5 GitHub Web
