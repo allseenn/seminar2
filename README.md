@@ -35,3 +35,7 @@ git commit -m "linux part"
 git push
 ```
 ## 5 GitHub Web
+On GitHub with web browser made main branch from win.
+And will try to merge others to it, if possible )).
+Seccessfuly changed default branch from win to main
+in Settings - Branches
