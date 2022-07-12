@@ -5,6 +5,7 @@ As result, we produce 4 branches:
 + linux - managed with Xubuntu Linux PC
 + main - managed through web interface  
 + forth - i mean fourth )) it needed for minimum
+
 All procedure takes 5 main actions
 
 ## 1 GitHub api
